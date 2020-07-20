@@ -1,4 +1,4 @@
 
-<?php echo file_get_contents('hello');?>
+<?php echo "hello";?>
 
 
